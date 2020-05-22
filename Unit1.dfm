@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 0
   BorderStyle = bsDialog
   ClientHeight = 310
-  ClientWidth = 1016
+  ClientWidth = 1104
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -17,9 +17,9 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 20
     Top = 88
-    Width = 972
+    Width = 1057
     Height = 121
-    Caption = 'Hello, fucking world!!!'
+    Caption = 'Hello, wondeful world!!!'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -100
